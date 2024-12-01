@@ -1,0 +1,249 @@
+User_ID,Age,Gender,Occupation,Country,Mental_Health_Condition,Severity,Consultation_History,Stress_Level,Sleep_Hours,Work_Hours,Physical_Activity_Hours
+3,65,Non-binary,Sales,USA,Yes,High,No,Low,8.4,58,10
+5,22,Female,Healthcare,Canada,Yes,Low,No,Medium,4.9,62,5
+6,64,Non-binary,IT,UK,Yes,High,No,High,6.3,34,0
+8,57,Male,IT,UK,Yes,Medium,Yes,High,4.2,57,9
+20,42,Non-binary,Education,Canada,Yes,High,No,Low,8.5,36,2
+22,50,Non-binary,Finance,UK,Yes,High,Yes,Low,5.1,69,3
+24,60,Female,Engineering,Germany,Yes,Medium,No,High,7.1,39,9
+25,35,Male,Healthcare,Germany,Yes,Low,No,High,6.4,65,6
+27,47,Prefer not to say,Finance,UK,Yes,Medium,No,Low,5.7,30,0
+32,20,Non-binary,Engineering,Canada,Yes,Medium,Yes,High,8.9,77,7
+35,56,Prefer not to say,Finance,UK,Yes,Low,No,Low,4.1,67,5
+36,36,Non-binary,Engineering,Other,Yes,Low,Yes,Medium,7.5,56,7
+37,42,Female,Education,Canada,Yes,Low,No,High,7.8,56,0
+44,30,Female,Education,Australia,Yes,Medium,No,Low,8.6,50,3
+48,43,Male,Engineering,India,Yes,Low,Yes,Low,4.3,38,8
+49,49,Male,Education,UK,Yes,Medium,Yes,High,6.8,36,10
+52,22,Non-binary,IT,UK,Yes,High,Yes,High,4.8,50,8
+65,62,Female,Sales,Australia,Yes,High,No,High,9.7,42,6
+75,30,Non-binary,IT,Other,Yes,High,No,High,4.3,33,6
+77,28,Male,Healthcare,USA,Yes,High,Yes,Medium,4.9,68,4
+79,50,Female,Sales,Australia,Yes,Low,Yes,Medium,7.0,43,9
+80,22,Male,IT,Other,Yes,Low,No,Low,9.7,45,0
+83,44,Non-binary,Other,India,Yes,High,No,Medium,7.1,63,8
+85,44,Prefer not to say,Engineering,Germany,Yes,Medium,Yes,High,6.6,42,3
+90,22,Non-binary,Engineering,UK,Yes,Low,No,Medium,4.9,58,9
+92,51,Prefer not to say,Engineering,USA,Yes,Medium,No,Medium,6.4,47,9
+101,27,Prefer not to say,Healthcare,Other,Yes,High,Yes,Low,5.4,31,2
+103,65,Male,Other,Canada,Yes,Low,Yes,Medium,8.2,46,4
+111,64,Male,Healthcare,Canada,Yes,Low,Yes,Medium,5.4,30,5
+112,29,Female,Sales,USA,Yes,Medium,Yes,High,8.6,52,6
+114,20,Male,Other,UK,Yes,Low,No,Low,8.0,49,4
+123,57,Prefer not to say,Finance,India,Yes,Low,Yes,High,7.6,78,0
+124,21,Prefer not to say,Healthcare,Australia,Yes,Low,No,Low,9.6,38,5
+127,25,Male,IT,Canada,Yes,High,Yes,High,7.3,74,8
+129,27,Prefer not to say,Other,USA,Yes,Medium,No,Medium,6.7,54,1
+134,38,Non-binary,Finance,Australia,Yes,High,No,High,7.0,64,6
+137,50,Non-binary,Education,Germany,Yes,Medium,Yes,High,4.3,65,8
+144,59,Non-binary,Finance,Germany,Yes,High,No,Low,7.1,59,9
+148,25,Prefer not to say,IT,India,Yes,Low,No,Medium,4.6,36,6
+150,65,Female,IT,Australia,Yes,High,Yes,Low,6.7,41,4
+151,48,Male,Finance,Australia,Yes,High,No,Low,5.3,62,5
+153,52,Prefer not to say,Other,Other,Yes,Low,No,Medium,9.2,46,1
+176,47,Non-binary,Sales,India,Yes,High,No,Medium,8.6,30,3
+185,56,Male,Healthcare,Germany,Yes,Medium,Yes,High,5.2,34,2
+195,44,Female,Engineering,India,Yes,Low,Yes,Medium,7.8,57,9
+197,48,Male,Healthcare,UK,Yes,Medium,Yes,High,6.7,49,1
+206,26,Female,Other,USA,Yes,High,No,Low,8.0,39,8
+213,22,Non-binary,Healthcare,Canada,Yes,Medium,No,High,4.7,56,7
+219,35,Male,Engineering,Germany,Yes,Medium,No,Low,7.4,44,0
+232,26,Prefer not to say,Healthcare,Germany,Yes,Low,Yes,Medium,5.7,35,10
+234,43,Male,Other,Australia,Yes,Medium,No,Medium,8.7,76,6
+237,45,Male,Other,Germany,Yes,Low,No,High,4.6,48,9
+238,27,Male,IT,India,Yes,Medium,No,High,9.0,69,2
+241,37,Non-binary,Engineering,Other,Yes,Medium,Yes,Medium,8.9,59,1
+244,51,Male,Healthcare,India,Yes,High,No,High,6.4,62,3
+255,37,Male,Education,Canada,Yes,Low,Yes,Medium,7.6,57,4
+261,60,Non-binary,IT,India,Yes,High,No,Medium,8.8,50,9
+266,28,Non-binary,Healthcare,USA,Yes,Low,Yes,Low,6.8,44,3
+270,56,Male,Sales,India,Yes,Medium,No,Medium,7.7,57,7
+271,24,Male,IT,Canada,Yes,Medium,Yes,Medium,4.8,40,7
+272,28,Non-binary,Education,Australia,Yes,High,No,Low,6.5,58,7
+273,53,Male,IT,UK,Yes,Low,Yes,High,7.4,72,0
+274,44,Prefer not to say,Finance,India,Yes,High,Yes,High,9.8,54,8
+275,34,Prefer not to say,Other,Australia,Yes,Medium,No,Medium,5.4,45,3
+291,33,Male,Engineering,Germany,Yes,Low,Yes,Medium,4.2,57,9
+292,65,Female,Healthcare,Canada,Yes,High,Yes,Low,6.8,66,7
+296,50,Male,Healthcare,India,Yes,Low,Yes,Low,8.0,31,3
+300,44,Non-binary,Engineering,India,Yes,Low,Yes,High,7.3,57,3
+314,51,Prefer not to say,IT,USA,Yes,High,Yes,High,6.4,59,9
+315,52,Prefer not to say,Sales,Australia,Yes,Medium,Yes,High,4.2,74,5
+316,57,Non-binary,Healthcare,Other,Yes,Medium,No,Low,5.6,67,5
+324,47,Prefer not to say,IT,UK,Yes,Low,No,High,8.7,63,7
+325,39,Female,IT,UK,Yes,Medium,No,Medium,5.8,71,6
+328,53,Female,Engineering,India,Yes,High,Yes,Low,9.2,66,4
+329,63,Male,Other,Other,Yes,Medium,Yes,Low,7.0,41,10
+330,38,Prefer not to say,Finance,Canada,Yes,High,No,Medium,4.0,37,5
+336,18,Prefer not to say,Healthcare,Canada,Yes,Medium,No,Medium,9.0,80,2
+341,55,Female,Finance,Canada,Yes,High,Yes,Low,9.5,62,10
+343,59,Male,Healthcare,Canada,Yes,Medium,No,Medium,5.1,35,2
+345,43,Prefer not to say,IT,India,Yes,Low,No,Medium,9.3,71,4
+348,60,Non-binary,Education,USA,Yes,High,No,High,7.4,33,9
+351,64,Non-binary,IT,India,Yes,High,No,Medium,5.7,36,9
+353,31,Non-binary,Sales,Australia,Yes,Low,No,High,8.5,65,8
+354,54,Non-binary,Finance,India,Yes,Medium,No,High,9.1,63,4
+357,38,Female,Sales,Germany,Yes,High,Yes,High,5.6,65,4
+359,58,Female,Healthcare,UK,Yes,Low,Yes,Medium,4.4,67,2
+367,49,Prefer not to say,IT,USA,Yes,Medium,Yes,Medium,4.6,62,2
+369,32,Female,Healthcare,USA,Yes,High,Yes,Low,8.8,46,7
+370,58,Non-binary,IT,India,Yes,High,Yes,High,6.9,68,4
+377,43,Male,Finance,Germany,Yes,High,Yes,Low,6.7,73,6
+384,59,Female,Education,Germany,Yes,Low,No,High,8.4,37,2
+386,27,Female,Finance,Other,Yes,Medium,Yes,Medium,5.6,73,2
+388,24,Female,Healthcare,USA,Yes,High,No,Medium,8.1,58,9
+389,22,Male,Sales,USA,Yes,Low,Yes,Medium,5.2,72,7
+399,58,Female,Sales,USA,Yes,High,Yes,High,4.4,46,4
+400,52,Male,Finance,UK,Yes,High,Yes,Low,9.3,75,0
+410,41,Male,Finance,Australia,Yes,Medium,Yes,Low,5.9,67,5
+414,40,Female,Other,Canada,Yes,High,Yes,High,7.0,30,3
+415,39,Non-binary,IT,UK,Yes,High,No,Medium,4.5,79,6
+416,55,Female,Sales,India,Yes,Medium,Yes,Medium,8.2,42,9
+418,28,Non-binary,Engineering,India,Yes,Medium,Yes,High,9.9,75,0
+422,43,Female,IT,UK,Yes,Low,No,Medium,5.6,68,2
+425,30,Female,Finance,Other,Yes,Medium,No,High,5.7,57,7
+427,45,Prefer not to say,Healthcare,USA,Yes,High,Yes,Medium,7.4,76,5
+428,47,Male,Healthcare,UK,Yes,Low,No,Medium,4.2,30,4
+431,40,Prefer not to say,Sales,Canada,Yes,Medium,Yes,Medium,6.0,31,8
+441,64,Male,Finance,Australia,Yes,Low,No,Medium,5.2,42,2
+444,47,Prefer not to say,Sales,Germany,Yes,High,Yes,Low,9.9,65,8
+445,36,Prefer not to say,Engineering,India,Yes,Low,Yes,Medium,4.9,52,2
+456,54,Male,IT,Australia,Yes,Low,Yes,High,6.0,31,3
+460,45,Non-binary,Engineering,UK,Yes,Medium,No,Low,8.5,78,6
+465,31,Female,Finance,Australia,Yes,High,No,Medium,8.3,66,4
+469,54,Female,Healthcare,Germany,Yes,High,Yes,Low,8.1,47,4
+475,59,Male,Other,Germany,Yes,Low,Yes,High,9.9,47,5
+476,46,Female,Healthcare,UK,Yes,Low,Yes,Low,8.6,59,4
+478,60,Female,Sales,UK,Yes,Low,No,Low,9.3,66,10
+482,44,Male,Other,India,Yes,Medium,No,High,5.3,70,9
+484,43,Female,Engineering,UK,Yes,Low,Yes,Medium,8.5,49,10
+485,22,Female,Engineering,Germany,Yes,Medium,No,High,9.1,34,3
+492,39,Male,Finance,Australia,Yes,Medium,Yes,Medium,7.8,42,6
+493,49,Female,Other,USA,Yes,Medium,No,High,9.8,70,10
+496,20,Male,Sales,UK,Yes,High,Yes,Medium,7.7,50,10
+498,38,Non-binary,Sales,Canada,Yes,Medium,Yes,Medium,6.7,51,4
+502,56,Female,IT,Other,Yes,Low,Yes,Medium,6.3,44,0
+507,42,Prefer not to say,Engineering,Canada,Yes,High,No,Low,9.1,78,9
+508,43,Female,IT,UK,Yes,Low,No,Low,8.2,75,10
+514,50,Male,Healthcare,Other,Yes,Medium,No,Low,6.9,50,5
+521,51,Non-binary,Sales,Germany,Yes,High,No,Low,8.5,46,3
+523,37,Female,Sales,Canada,Yes,Low,Yes,Low,5.0,37,1
+548,63,Male,IT,USA,Yes,High,No,Low,10.0,73,3
+551,60,Non-binary,Healthcare,India,Yes,Low,No,Medium,7.0,41,9
+552,41,Female,Sales,USA,Yes,High,Yes,High,5.8,48,5
+555,32,Non-binary,Finance,Canada,Yes,Medium,Yes,High,4.7,64,6
+563,27,Prefer not to say,IT,India,Yes,High,Yes,High,4.7,35,6
+568,36,Female,IT,Germany,Yes,High,Yes,Medium,6.2,30,4
+573,26,Non-binary,Education,India,Yes,Low,No,High,8.3,37,5
+574,56,Male,IT,USA,Yes,Low,No,Medium,5.0,70,5
+578,53,Non-binary,Education,Other,Yes,Medium,No,Medium,7.4,66,9
+579,38,Non-binary,Finance,USA,Yes,Medium,No,High,6.4,53,1
+581,29,Male,Sales,India,Yes,Medium,Yes,Low,4.5,45,9
+584,24,Male,Healthcare,India,Yes,High,No,Medium,8.7,61,6
+586,41,Non-binary,Education,Canada,Yes,High,No,Medium,6.3,52,7
+587,25,Non-binary,IT,Australia,Yes,Low,No,High,6.9,71,1
+588,28,Female,Other,Germany,Yes,Medium,No,Medium,9.6,71,2
+593,38,Female,Healthcare,UK,Yes,Low,Yes,Low,5.0,44,0
+594,23,Female,Education,India,Yes,Medium,No,High,5.9,47,5
+598,43,Female,Finance,India,Yes,Low,Yes,High,6.6,47,7
+601,63,Non-binary,Education,Australia,Yes,Medium,No,Medium,9.7,53,6
+607,63,Female,Education,UK,Yes,Medium,Yes,Medium,4.3,65,10
+617,26,Prefer not to say,Other,UK,Yes,Medium,Yes,Low,8.0,52,6
+619,29,Male,IT,Australia,Yes,Low,No,Low,7.0,70,4
+622,43,Female,Other,India,Yes,High,No,Low,7.7,46,7
+624,48,Female,Healthcare,Other,Yes,High,Yes,High,7.5,35,2
+625,62,Female,Sales,USA,Yes,Low,No,High,6.4,67,0
+626,40,Non-binary,Sales,India,Yes,Medium,Yes,Medium,7.8,77,1
+627,33,Non-binary,Sales,Australia,Yes,Low,No,High,4.2,70,8
+631,27,Prefer not to say,Healthcare,USA,Yes,High,Yes,Low,9.6,52,3
+637,63,Female,Healthcare,Canada,Yes,Low,No,Medium,6.3,72,3
+639,36,Non-binary,Education,Other,Yes,Low,Yes,High,5.0,59,10
+642,45,Female,Education,Germany,Yes,High,Yes,High,6.8,33,10
+643,62,Non-binary,Engineering,Canada,Yes,High,Yes,Low,8.5,77,0
+646,18,Female,Other,Germany,Yes,Medium,Yes,High,8.8,68,8
+648,56,Female,Education,Germany,Yes,Medium,Yes,High,5.5,69,9
+651,20,Non-binary,Finance,Australia,Yes,Low,No,High,8.9,35,6
+655,56,Male,Education,UK,Yes,High,No,High,5.8,59,3
+656,31,Non-binary,Education,USA,Yes,Medium,Yes,Low,9.2,33,8
+657,34,Male,Finance,UK,Yes,Low,Yes,Medium,9.2,37,6
+658,23,Male,Finance,Australia,Yes,Medium,No,Low,9.6,74,1
+666,20,Prefer not to say,Healthcare,India,Yes,Medium,Yes,High,9.0,66,5
+667,38,Non-binary,Sales,USA,Yes,Low,No,High,4.1,45,0
+668,33,Non-binary,Engineering,India,Yes,Low,No,Low,9.1,50,8
+673,55,Female,IT,USA,Yes,Medium,No,High,6.2,76,4
+674,29,Prefer not to say,Engineering,USA,Yes,Medium,No,Medium,8.5,62,6
+675,33,Male,Sales,USA,Yes,High,No,High,8.1,63,7
+676,61,Male,Healthcare,Canada,Yes,Low,Yes,High,9.5,30,9
+698,41,Prefer not to say,Healthcare,Germany,Yes,High,No,High,5.8,70,8
+700,26,Male,Other,USA,Yes,High,Yes,High,6.1,43,3
+707,34,Female,Sales,USA,Yes,Low,Yes,Medium,4.4,75,2
+715,61,Prefer not to say,Education,Canada,Yes,Low,Yes,Low,5.4,56,10
+716,56,Prefer not to say,IT,Other,Yes,High,No,Medium,4.0,54,8
+717,37,Male,Sales,India,Yes,Medium,Yes,Low,10.0,71,9
+718,31,Female,Finance,UK,Yes,Low,No,Medium,8.7,50,2
+719,30,Male,Other,Canada,Yes,Medium,No,Low,6.5,51,7
+721,37,Female,Other,Germany,Yes,Low,No,Low,5.4,66,7
+725,35,Female,Healthcare,Other,Yes,Low,No,Low,9.9,52,0
+730,35,Prefer not to say,Other,Canada,Yes,Medium,Yes,High,9.1,59,10
+731,60,Non-binary,Other,Canada,Yes,Low,No,Medium,8.1,40,8
+733,63,Female,Finance,Australia,Yes,Medium,No,Medium,6.5,77,3
+740,56,Prefer not to say,Other,Germany,Yes,Low,No,High,4.4,62,9
+747,32,Female,Healthcare,India,Yes,Low,Yes,Low,8.0,47,3
+756,39,Male,Education,Other,Yes,High,No,Medium,9.4,32,8
+757,26,Non-binary,Healthcare,USA,Yes,Medium,No,Low,8.7,50,4
+759,41,Male,Other,Australia,Yes,Low,Yes,High,5.5,63,3
+761,48,Female,Sales,Other,Yes,Low,No,Medium,7.7,33,1
+772,45,Prefer not to say,IT,UK,Yes,Low,Yes,Low,9.9,71,10
+781,41,Prefer not to say,Finance,India,Yes,Medium,No,Low,8.7,46,9
+785,54,Non-binary,Education,Other,Yes,High,No,Medium,6.2,69,10
+786,37,Non-binary,Other,Canada,Yes,Low,Yes,Low,5.0,61,2
+790,44,Prefer not to say,Healthcare,Australia,Yes,Medium,No,Low,8.2,31,10
+794,28,Prefer not to say,Finance,Other,Yes,Low,Yes,Low,7.7,48,5
+800,41,Female,Engineering,Germany,Yes,Low,Yes,Medium,9.7,49,6
+808,40,Non-binary,Other,India,Yes,Medium,No,Medium,5.4,37,8
+810,35,Prefer not to say,Engineering,India,Yes,Medium,Yes,Low,8.8,51,9
+814,26,Male,Engineering,UK,Yes,Medium,Yes,Low,8.3,40,1
+822,18,Male,Engineering,USA,Yes,Medium,Yes,Low,7.7,57,5
+823,63,Male,Healthcare,Australia,Yes,High,No,Medium,5.1,52,1
+825,22,Prefer not to say,Other,Other,Yes,Low,No,High,5.8,52,10
+826,60,Prefer not to say,Finance,UK,Yes,Medium,Yes,Medium,5.2,52,6
+828,32,Female,Healthcare,USA,Yes,High,Yes,High,4.8,37,5
+833,54,Female,Other,Germany,Yes,Low,Yes,Medium,6.1,34,8
+835,38,Female,Education,Other,Yes,Medium,No,Medium,5.0,35,9
+837,59,Male,Education,India,Yes,Low,No,High,9.0,31,9
+839,28,Female,Other,USA,Yes,Medium,No,High,5.4,80,4
+848,24,Prefer not to say,Engineering,USA,Yes,Low,Yes,Medium,6.7,58,2
+860,45,Female,Other,Australia,Yes,Medium,No,Medium,7.3,61,7
+871,28,Prefer not to say,Healthcare,USA,Yes,Low,No,High,6.1,46,0
+877,54,Female,Finance,Germany,Yes,Low,Yes,Medium,7.0,38,10
+879,62,Female,Engineering,Australia,Yes,High,Yes,Low,8.1,38,7
+881,42,Female,Engineering,USA,Yes,High,No,Low,5.8,74,8
+882,64,Female,Healthcare,USA,Yes,Medium,Yes,Low,5.7,42,2
+884,43,Non-binary,Finance,Australia,Yes,High,Yes,Medium,4.6,72,7
+885,49,Female,IT,India,Yes,Medium,No,Medium,4.6,50,3
+893,28,Non-binary,Healthcare,Canada,Yes,High,Yes,High,7.2,66,8
+894,20,Female,IT,Other,Yes,Low,No,Medium,4.4,72,8
+897,64,Female,Finance,UK,Yes,Low,No,Medium,9.9,62,8
+914,21,Prefer not to say,Sales,Other,Yes,Medium,Yes,Low,5.0,39,9
+926,37,Female,IT,UK,Yes,High,Yes,Medium,8.1,74,5
+928,45,Prefer not to say,Healthcare,Canada,Yes,Medium,No,Low,6.4,64,5
+933,58,Female,IT,Canada,Yes,Low,Yes,Low,8.7,65,2
+935,34,Male,Other,Other,Yes,Low,No,High,9.0,37,10
+937,25,Non-binary,Education,USA,Yes,Low,Yes,Medium,4.6,59,9
+941,55,Non-binary,Sales,Australia,Yes,High,Yes,High,6.4,50,3
+943,34,Non-binary,Education,UK,Yes,Medium,No,Medium,5.7,78,6
+945,46,Non-binary,Engineering,Germany,Yes,High,No,High,7.7,67,3
+946,28,Non-binary,Education,USA,Yes,High,Yes,Medium,10.0,53,0
+950,32,Prefer not to say,IT,UK,Yes,Low,No,High,8.2,62,4
+952,48,Prefer not to say,Finance,Canada,Yes,Medium,No,Low,4.9,51,7
+959,22,Prefer not to say,Finance,Other,Yes,High,Yes,Medium,8.4,30,8
+960,20,Female,Sales,Other,Yes,Low,Yes,High,8.2,45,8
+961,35,Prefer not to say,Finance,Canada,Yes,Medium,No,High,8.2,73,10
+968,63,Prefer not to say,Sales,Canada,Yes,Medium,Yes,Low,4.9,37,9
+969,41,Non-binary,Education,USA,Yes,Low,Yes,High,9.9,43,6
+970,21,Female,Education,Canada,Yes,Medium,Yes,High,6.1,50,3
+972,62,Non-binary,Engineering,USA,Yes,High,Yes,Low,7.0,44,5
+975,52,Prefer not to say,Finance,USA,Yes,High,Yes,Medium,8.9,56,0
+977,18,Female,Education,Australia,Yes,Medium,No,Low,9.3,77,1
+987,26,Prefer not to say,Other,UK,Yes,Medium,No,Low,5.3,73,9
+993,52,Female,Education,Canada,Yes,High,No,Medium,7.9,57,2
